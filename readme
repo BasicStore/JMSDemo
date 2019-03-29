@@ -1,0 +1,6 @@
+
+JMS DEMO
+
+This is spring boot JMS messaging within a single JVM process
+
+https://spring.io/guides/gs/messaging-jms/
